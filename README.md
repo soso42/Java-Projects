@@ -4,6 +4,7 @@
 
 
 
+- [Flashcards](https://github.com/soso42/Flashcards/) - uses strategy pattern, collections framework (map, list, set), stream library, reading and writing from files;
 - [Encryption-Decryption](https://github.com/soso42/Encryption-Decryption-Jetbrains-Academy/) - uses strategy pattern;
 - 
 

@@ -5,9 +5,8 @@
 
 - [Budget manager](https://github.com/soso42/Budget-Manager) - uses strategy pattern, collections framework (varios sorting), stream library, reading and writing from files;
 - [Flashcards](https://github.com/soso42/Flashcards/) - uses strategy pattern, collections framework (map, list, set), stream library, reading and writing from files;
-- []() - uses MVC pattern, OAuth 2.0.
+- [Music Advisor](https://github.com/soso42/Music-Advisor) - uses MVC pattern, OAuth 2.0.
 - [Encryption-Decryption](https://github.com/soso42/Encryption-Decryption-Jetbrains-Academy/) - uses strategy pattern;
-- 
 
 
 
